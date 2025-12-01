@@ -1,0 +1,7 @@
+<dependencies>
+    <dependency>
+        <gruopId>org.freemarker</gruopId>
+        <artifactId>freemarker</artifactId>
+        <version>2.3.33</version>
+    </dependency>
+</dependencies>
